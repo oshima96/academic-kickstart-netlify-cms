@@ -25,13 +25,13 @@ smartypants = true
 [params]
 address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 avatar = "/img/bubbles-wide.jpg"
-color_theme = "default"
+color_theme = "coffee"
 comment_count = true
 custom_css = []
 custom_js = []
 date_format = "Jan 2, 2006"
 email = "test@example.org"
-font = "playfair"
+font = "classic"
 gravatar = false
 highlight = true
 highlight_languages = []
