@@ -113,11 +113,6 @@ url = "#projects"
 weight = 4.0
 
 [[menu.main]]
-name = "Teaching"
-url = "#teaching"
-weight = 5.0
-
-[[menu.main]]
 name = "Talks"
 url = "#talks"
 weight = 6.0
